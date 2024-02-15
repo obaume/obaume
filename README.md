@@ -1,15 +1,11 @@
 # 🏒 Oscar Baume
 
-Hi! I am 24 years old and live in Switzerland. I started programming in 2015 while doing my CFC in computer science in Lausanne at the ETML. I am currently a candidate for a Bachelor of Science in Computer Science / Software Engineering in the HEIG-VD. For the time being this github account as been mainly used to work / collaborate on projects done during my Bachelore
+Hi! I am 24 years old and live in Switzerland. I started programming in 2015 while doing my CFC in computer science in Lausanne at the ETML. I am currently a candidate for a Bachelor of Science in Computer Science / Software Engineering in the HEIG-VD. For the time being this github account as been mainly used to work / collaborate on projects done during my Bachelore.
 
 ---
 ### 🗂️ A few repo
-[♟️ Chess game (java)](https://github.com/SlWa99/Laboratoire8_Chess)
-
-<!--[🕹️ Tetris Multiplayer (javascript)](https://github.com/web-classroom/5-tetris-3-websocket-baume_gillioz2)-->
-
-[💬 Desinging a functionnal language](https://github.com/obaume/PLP_language)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SlWa99&repo=SlWa99/Laboratoire8_Chess&theme=algolia)](https://github.com/SlWa99/Laboratoire8_Chess)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=obaume&repo=PLP_language&theme=algolia)](https://github.com/obaume/PLP_language)
 
 ### 🧰 Languages and Tools
 
@@ -32,12 +28,18 @@ Hi! I am 24 years old and live in Switzerland. I started programming in 2015 whi
 <br/>
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obaume&size_weight=0&count_weight=1&hide=Makefile,Cmake,Shell,yacc,lex&layout=compact&theme=algolia)]()
+
 #
 
 ### 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=obaume&show_icons=true&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api?username=obaume&show_icons=true&theme=algolia)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=obaume&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=obaume&theme=algolia&border_radius=4.5)
 
 #
+<details>
+<summary>📜 Oscar's Journey</summary>
+
+</details>
