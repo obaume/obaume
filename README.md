@@ -38,8 +38,8 @@ Hi! I am 24 years old and live in Switzerland. I started programming in 2015 whi
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=obaume&theme=shadow_blue&border_radius=4.5)
 
-#
+<!--#
 <details>
 <summary>📜 Oscar's Journey</summary>
 
-</details>
+</details>-->
