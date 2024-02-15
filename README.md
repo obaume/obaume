@@ -4,8 +4,8 @@ Hi! I am 24 years old and live in Switzerland. I started programming in 2015 whi
 
 ---
 ### 🗂️ A few repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SlWa99&repo=SlWa99/Laboratoire8_Chess&theme=algolia)](https://github.com/SlWa99/Laboratoire8_Chess)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=obaume&repo=PLP_language&theme=algolia)](https://github.com/obaume/PLP_language)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SlWa99&repo=SlWa99/Laboratoire8_Chess&theme=shadow_blue)](https://github.com/SlWa99/Laboratoire8_Chess)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=obaume&repo=PLP_language&theme=shadow_blue)](https://github.com/obaume/PLP_language)
 
 ### 🧰 Languages and Tools
 
@@ -28,15 +28,15 @@ Hi! I am 24 years old and live in Switzerland. I started programming in 2015 whi
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obaume&size_weight=0&count_weight=1&hide=Makefile,Cmake,Shell,yacc,lex&layout=compact&theme=algolia)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obaume&size_weight=0&count_weight=1&hide=Makefile,Cmake,Shell,yacc,lex&layout=compact&theme=shadow_blue)]()
 
 #
 
 ### 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=obaume&show_icons=true&theme=algolia)
+![](https://github-readme-stats.vercel.app/api?username=obaume&show_icons=true&theme=shadow_blue)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=obaume&theme=algolia&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=obaume&theme=shadow_blue&border_radius=4.5)
 
 #
 <details>
