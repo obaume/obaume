@@ -1,6 +1,6 @@
 # 🏒 Oscar Baume
 
-Hi! I am 24 years old and live in Switzerland. I started programming in 2015 while doing my CFC in computer science in Lausanne at the ETML. I am currently a candidate for a Bachelor of Science in Computer Science / Software Engineering in the HEIG-VD. For the time being this github account as been mainly used to work / collaborate on projects done during my Bachelore.
+Hi! I am 24 years old and live in Switzerland. I started programming in 2015 while doing my CFC in computer science in Lausanne at the [ETML](https://www.etml.ch/). I am currently a candidate for a Bachelor of Science in Computer Science / Software Engineering in the [HEIG-VD](https://heig-vd.ch/). For the time being this github account as been mainly used to work / collaborate on projects done during my Bachelore.
 
 ---
 ### 🗂️ A few repo
