@@ -4,7 +4,7 @@ Hi! I am 24 years old and live in Switzerland. I started programming in 2015 whi
 
 ---
 ### 🗂️ A few repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SlWa99&repo=SlWa99/Laboratoire8_Chess&theme=shadow_blue)](https://github.com/SlWa99/Laboratoire8_Chess)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SlWa99&repo=SlWa99/Laboratoire8_Chess&theme=shadow_blue)](https://github.com/SlWa99/Laboratoire8_Chess)-->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=obaume&repo=PLP_language&theme=shadow_blue)](https://github.com/obaume/PLP_language)
 
 ### 🧰 Languages and Tools
